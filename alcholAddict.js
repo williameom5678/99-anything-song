@@ -16,7 +16,7 @@ const alcholAddict = (bottles, type, where, what) => {
             if(asdf != 0){
                 console.log(ln_2);
                 console.log("\n");
-            }else if(asdf == 0){/*NOTHING TO DO!!!!!!*/}
+            }
         } else if(i == 0) {
             ln_3 = `Take it down and pass it around, no more ${type} of ${what} on the ${where}`;
             ln_4 = `No more ${what} of ${type} on the ${where}, no more ${what} of ${type} on the ${where}`;
